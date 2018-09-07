@@ -1,0 +1,19 @@
+{
+  "expo": {
+	"name": "Happily Ever After",
+	"description": "A prototype screen for Care Card UX Challenge - How do you feel? .",
+	"slug": "playlist",
+    "privacy": "public",
+    "sdkVersion": "27.0.0",
+	"version": "3.0.0",
+    "orientation": "portrait",
+	"primaryColor": "#cccccc",
+    "icon": "./Happy.png",
+	"splash": {
+      "image": "./Splash.png",
+    }
+  }
+}
+
+
+
